@@ -1,0 +1,1 @@
+export { TradeScreen as default } from '@/components/Screens';
